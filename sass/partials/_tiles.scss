@@ -1,0 +1,485 @@
+.tiles{
+	margin: 70px auto 0;
+  width: 936px;
+	display: flex;
+  position: relative;
+  overflow: hidden;
+  flex-wrap: nowrap;
+  flex-direction:row;
+  justify-content: space-between;
+  ul{
+		display: flex;
+    position: relative;
+    overflow: hidden;
+  	flex-wrap: wrap;
+  	flex-direction:row;
+  	justify-content: space-between;
+   	li{
+	  	display: flex;
+	    position: relative;
+			width: 292px;
+			height: 292px;
+	    overflow: hidden;
+	  	flex-wrap: wrap;
+	  	flex-direction:row;
+	  	justify-content: flex-start;
+			margin-bottom: 30px;
+			.video_img{
+				display: block;
+				position: relative;
+				float: right;
+				img{
+					display: block;
+					position: relative;
+					float: right;
+					margin: 10px 0 0 244px;
+					width: 38px;
+					height: 30px;
+				}
+			}
+			table{
+				width: 292px;
+				display: block;
+				position: relative;
+				margin: 173px 0 0 20px;
+				tbody{
+					width: 292px;
+					display: block;
+					position: relative;
+					tr{
+							width: 292px;
+							height: 30px;
+							td{
+									width: 90px;
+									p{
+										display: inline-block;
+										color: #ffffff;
+										font-family: "Proxima Nova - Semibold";
+										font-size: 17px;
+										font-weight: 400;
+										line-height: 24px;
+										margin-left: 5px;
+									}
+									.heart{
+											width: 21px;
+											height: 19px;
+											vertical-align: middle;
+									}
+									.message{
+											width: 17px;
+											height: 17px;
+											vertical-align: middle;
+									}
+							}
+					}
+				}
+			}
+			span{
+				display: block;
+				margin: 0 auto 0;
+				color: #ffffff;
+				font-family: "Proxima Nova - Semibold";
+				font-size: 17px;
+				font-weight: 400;
+				line-height: 24px;
+			}
+		}
+		.tile_1{
+				background-image: url(../images/img1.png);
+				table{
+						width: 292px;
+						display: block;
+						position: relative;
+						margin: 173px 0 0 20px;
+						tbody{
+							width: 292px;
+							display: block;
+							position: relative;
+							tr{
+									width: 292px;
+									height: 30px;
+									td{
+											width: 90px;
+											p{
+												display: inline-block;
+												color: #ffffff;
+												font-family: "Proxima Nova - Semibold";
+												font-size: 17px;
+												font-weight: 400;
+												line-height: 24px;
+												margin-left: 5px;
+											}
+											.heart{
+													width: 21px;
+													height: 19px;
+													vertical-align: middle;
+											}
+											.message{
+													width: 17px;
+													height: 17px;
+													vertical-align: middle;
+											}
+									}
+							}
+						}
+					}
+		}
+		.tile_2{
+				background-image: url(../images/img2.png);
+				table{
+					width: 292px;
+					display: block;
+					position: relative;
+					margin: 173px 0 0 20px;
+					tbody{
+						width: 292px;
+						display: block;
+						position: relative;
+						tr{
+								width: 292px;
+								height: 30px;
+								td{
+										width: 90px;
+										p{
+											display: inline-block;
+											color: #ffffff;
+											font-family: "Proxima Nova - Semibold";
+											font-size: 17px;
+											font-weight: 400;
+											line-height: 24px;
+											margin-left: 5px;
+										}
+										.heart{
+												width: 21px;
+												height: 19px;
+												vertical-align: middle;
+										}
+										.message{
+												width: 17px;
+												height: 17px;
+												vertical-align: middle;
+										}
+								}
+						}
+					}
+				}
+		}
+		.tile_3{
+				background-image: url(../images/img3.png);
+				table{
+					width: 292px;
+					display: block;
+					position: relative;
+					margin: 81px 0 0 20px;
+					tbody{
+						width: 292px;
+						display: block;
+						position: relative;
+						tr{
+								width: 292px;
+								height: 30px;
+								td{
+										width: 90px;
+										p{
+											display: inline-block;
+											color: #ffffff;
+											font-family: "Proxima Nova - Semibold";
+											font-size: 17px;
+											font-weight: 400;
+											line-height: 24px;
+											margin-left: 5px;
+										}
+										.heart{
+												width: 21px;
+												height: 19px;
+												vertical-align: middle;
+										}
+										.message{
+												width: 17px;
+												height: 17px;
+												vertical-align: middle;
+										}
+								}
+						}
+					}
+				}
+		}
+		.tile_4{
+				background-image: url(../images/img4.png);
+				table{
+					width: 292px;
+					display: block;
+					position: relative;
+					margin: 123px 0 0 40px;
+					tbody{
+						width: 292px;
+						display: block;
+						position: relative;
+						tr{
+								width: 292px;
+								height: 30px;
+								td{
+										width: 90px;
+										p{
+											display: inline-block;
+											color: #ffffff;
+											font-family: "Proxima Nova - Semibold";
+											font-size: 17px;
+											font-weight: 400;
+											line-height: 24px;
+											margin-left: 5px;
+										}
+										.heart{
+												width: 21px;
+												height: 19px;
+												vertical-align: middle;
+										}
+										.message{
+												width: 17px;
+												height: 17px;
+												vertical-align: middle;
+										}
+								}
+						}
+					}
+				}
+		}
+		.tile_5{
+				background-image: url(../images/img5.png);
+				table{
+					width: 292px;
+					display: block;
+					position: relative;
+					margin: 123px 0 0 40px;
+					tbody{
+						width: 292px;
+						display: block;
+						position: relative;
+						tr{
+								width: 292px;
+								height: 30px;
+								td{
+										width: 90px;
+										p{
+											display: inline-block;
+											color: #ffffff;
+											font-family: "Proxima Nova - Semibold";
+											font-size: 17px;
+											font-weight: 400;
+											line-height: 24px;
+											margin-left: 5px;
+										}
+										.heart{
+												width: 21px;
+												height: 19px;
+												vertical-align: middle;
+										}
+										.message{
+												width: 17px;
+												height: 17px;
+												vertical-align: middle;
+										}
+								}
+						}
+					}
+				}
+		}
+		.tile_6{
+				background-image: url(../images/img6.png);
+				table{
+					width: 292px;
+					display: block;
+					position: relative;
+					margin: 123px 0 0 40px;
+					tbody{
+						width: 292px;
+						display: block;
+						position: relative;
+						tr{
+								width: 292px;
+								height: 30px;
+								td{
+										width: 90px;
+										p{
+											display: inline-block;
+											color: #ffffff;
+											font-family: "Proxima Nova - Semibold";
+											font-size: 17px;
+											font-weight: 400;
+											line-height: 24px;
+											margin-left: 5px;
+										}
+										.heart{
+												width: 21px;
+												height: 19px;
+												vertical-align: middle;
+										}
+										.message{
+												width: 17px;
+												height: 17px;
+												vertical-align: middle;
+										}
+								}
+						}
+					}
+				}
+		}
+		.tile_7{
+				background-image: url(../images/img7.png);
+				table{
+					width: 292px;
+					display: block;
+					position: relative;
+					margin: 123px 0 0 40px;
+					tbody{
+						width: 292px;
+						display: block;
+						position: relative;
+						tr{
+								width: 292px;
+								height: 30px;
+								td{
+										width: 90px;
+										p{
+											display: inline-block;
+											color: #ffffff;
+											font-family: "Proxima Nova - Semibold";
+											font-size: 17px;
+											font-weight: 400;
+											line-height: 24px;
+											margin-left: 5px;
+										}
+										.heart{
+												width: 21px;
+												height: 19px;
+												vertical-align: middle;
+										}
+										.message{
+												width: 17px;
+												height: 17px;
+												vertical-align: middle;
+										}
+								}
+						}
+					}
+				}
+		}
+		.tile_8{
+				background-image: url(../images/img8.png);
+				table{
+					width: 292px;
+					display: block;
+					position: relative;
+					margin: 123px 0 0 40px;
+					tbody{
+						width: 292px;
+						display: block;
+						position: relative;
+						tr{
+								width: 292px;
+								height: 30px;
+								td{
+										width: 90px;
+										p{
+											display: inline-block;
+											color: #ffffff;
+											font-family: "Proxima Nova - Semibold";
+											font-size: 17px;
+											font-weight: 400;
+											line-height: 24px;
+											margin-left: 5px;
+										}
+										.heart{
+												width: 21px;
+												height: 19px;
+												vertical-align: middle;
+										}
+										.message{
+												width: 17px;
+												height: 17px;
+												vertical-align: middle;
+										}
+								}
+						}
+					}
+				}
+		}
+		.tile_9{
+				background-image: url(../images/img9.png);
+				table{
+					width: 292px;
+					display: block;
+					position: relative;
+					margin: 123px 0 0 40px;
+					tbody{
+						width: 292px;
+						display: block;
+						position: relative;
+						tr{
+								width: 292px;
+								height: 30px;
+								td{
+										width: 90px;
+										p{
+											display: inline-block;
+											color: #ffffff;
+											font-family: "Proxima Nova - Semibold";
+											font-size: 17px;
+											font-weight: 400;
+											line-height: 24px;
+											margin-left: 5px;
+										}
+										.heart{
+												width: 21px;
+												height: 19px;
+												vertical-align: middle;
+										}
+										.message{
+												width: 17px;
+												height: 17px;
+												vertical-align: middle;
+										}
+								}
+						}
+					}
+				}
+		}
+	}
+}
+.down_button{
+	position: relative;
+	display: block;
+	overflow: hidden;
+	margin: 29px auto;
+	width: 124px;
+	height: 28px;
+	border: 1px solid #000000;
+	background-color: #fafafa;
+	border-radius: 50px;
+	font-family: "Proxima Nova";
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 24px;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+
+@media (min-width: 737px) and (max-width: 1365px) {
+	.tiles{
+		margin: 70px auto 0;
+	  width: 96%;
+	}
+}
+
+@media (min-width: 320px) and (max-width: 736px) {
+	.tiles{
+		margin: 70px auto 0;
+	  width: 320px;
+		ul{
+			width: 320px;
+			li{
+				width: 320px;
+			}
+		}
+	}
+}

@@ -1,0 +1,23 @@
+header {
+	width:100%;
+	height: 198px;
+	display:block;
+	position:relative;
+	overflow: visible;
+	box-shadow: 0 6px 24px rgba(0, 0, 0, 0.06);
+	background-color: #ffffff;
+}
+
+@media (min-width: 737px) and (max-width: 1365px) {
+	header {
+		width:100%;
+		height: auto;
+	}
+}
+
+@media (min-width: 320px) and (max-width: 736px) {
+	header {
+		width:100%;
+		height: auto;
+	}
+}
